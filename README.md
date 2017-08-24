@@ -1,3 +1,11 @@
+# My small changes :smile:
+I have created a [myconfigs.vim](https://github.com/malagutti/vimrc/blob/master/my_configs.vim) file that contains some small changes.
+* It is possible to use a mouse now :mouse:
+* 1 tab = 2 spaces :keyboard:
+* Shows line numbers :1234:
+* Shows the line that you are currently on. :heavy_minus_sign:
+
+
 ![VIM](https://dnp4pehkvoo6n.cloudfront.net/43c5af597bd5c1a64eb1829f011c208f/as/Ultimate%20Vimrc.svg)
 
 # The Ultimate vimrc
